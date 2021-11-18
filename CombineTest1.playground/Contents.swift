@@ -519,6 +519,7 @@ example(of: "assign(to:on:)") {
     .assign(to: \.value, on: object)
 }
 
+print("adddaddaddaddaddaddaddaddaddaddadddaddaddaddaddaddaddaddaddaddissississ")
 // sink()
 example(of: "Just") {
   let just = Just("Hello world!")
